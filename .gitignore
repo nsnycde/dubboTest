@@ -1,0 +1,16 @@
+/target/
+*.class
+*.classpath
+*.project
+*.settings
+.classpath
+.project
+.springBeans
+target/
+*classpath
+*.launch
+*.bpmn2d
+*/*.classpath
+catalina.base_IS_UNDEFINED/
+.idea/
+*.iml
